@@ -1,7 +1,7 @@
 # Лабораторная работа №1
 ## Описания человека с помощью BEM
 ```
-.human>.human__head.head+.human__body.body>.human__arms.arms>arms__left.arms__left>arms__left--tatto^^arms__right.arms__right>arms__right--fingers.fingers>fingers--ring^^^^^.human__legs.legs
+.human>.human__head.head+.human__body.body>.human__arms.arms>arms__left>arms__left--tatto^^arms__right>arms__right--fingers.fingers>fingers--ring^^^^^.human__legs.legs
 ```
 ## Блоки из макета
 ### Header
